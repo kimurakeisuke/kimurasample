@@ -1,0 +1,60 @@
+
+＃https://www.gitignore.io/api/macos,windowsにより作成
+＃https://www.gitignore.io/?templates=macos,windowsで編集
+
+＃＃＃ マックOS ＃＃＃
+＃一般
+.DS_Store
+.AppleDouble
+.LSOverride
+
+＃アイコンは2つで終了する必要があります\ r
+アイコン
+
+＃サムネイル
+._ *
+
+＃ボリュームのルートに表示される可能性のあるファイル
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+。トラッシュ
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+＃リモートAFP共有上に作成される可能性のあるディレクトリ
+.AppleDB
+.AppleDesktop
+ネットワークのゴミ箱フォルダ
+一時的なアイテム
+.apdisk
+
+＃＃＃ ウィンドウズ ＃＃＃
+＃Windowsサムネイルキャッシュファイル
+Thumbs.db
+Thumbs.db：encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+＃ダンプファイル
+* .stackdump
+
+＃フォルダー設定ファイル
+[DD] esktop.ini
+
+＃ファイル共有で使用されるごみ箱
+$ RECYCLE.BIN /
+
+＃Windowsインストーラーファイル
+*。タクシー
+* .msi
+* .msix
+* .msm
+* .msp
+
+＃Windowsショートカット
+* .lnk
+
+＃https://www.gitignore.io/api/macos,windowsの終わり
+
